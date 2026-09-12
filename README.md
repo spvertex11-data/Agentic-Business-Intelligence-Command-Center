@@ -1,5 +1,9 @@
 *# Agentic Business Intelligence Command Center*
 
+<img width="1672" height="941" alt="ChatGPT Image Sep 12, 2026, 10_08_49 AM" src="https://github.com/user-attachments/assets/d6652822-9d3d-4115-9994-601c7b342f08" />
+<img width="1195" height="672" alt="Screenshot 2026-09-12 152758" src="https://github.com/user-attachments/assets/746b940c-4a85-471d-9177-9a658f8bdd0c" />
+<img width="1201" height="677" alt="Screenshot 2026-09-12 152819" src="https://github.com/user-attachments/assets/84f1aed2-56f1-4e29-b60d-dcfb45136a19" />
+<img width="856" height="662" alt="Screenshot 2026-09-12 152836" src="https://github.com/user-attachments/assets/399c1906-faf7-45e5-8da4-81aeb841eb60" />
 
 
 *## AI-Powered Business Analytics \& Decision Support System*
